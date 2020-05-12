@@ -10,7 +10,7 @@ jobs:
       uses: actions/checkout@v1
 
     - name: copy files via ssh key
-      uses: ./
+      uses: appleboy/scp-action@v0.0.1
       with:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
