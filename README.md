@@ -1,2 +1,2 @@
-# nicolaballotta.com
-My personal website homepage.
+# nicolab.xyz
+My personal website homepage. Includes Github actions for automatic deployment via scp.
