@@ -1,2 +1,2 @@
 # nicolab.xyz
-My personal website homepage. Includes Github actions for automatic deployment via scp.
+My personal website. Includes Github actions for automatic building and push on DO registry.
